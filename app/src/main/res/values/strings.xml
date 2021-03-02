@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">localStorage</string>
+    <string name="insert_your_name_please">Insert your name please</string>
+    <string name="display_name">Display name</string>
+</resources>
