@@ -33,3 +33,6 @@ une liste de User donnerait:
 "age":26
 }
 ]
+
+ressources: slide 09.1 et en complement 09.0
+https://drive.google.com/drive/folders/1eu-LXxiHocSktGYpG04PfE9Xmr_pBY5P?usp=sharing
